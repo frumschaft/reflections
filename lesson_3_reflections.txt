@@ -30,4 +30,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you are collaborating on a change outside of master, you and your team may treat the separate branch as a mini project until everything is settled. After that, you can decide to merge your work back into master.
+
+    Working together on master keeps the evolution of your project in motion. But, if alterations or whole new features are in process, a separate branch will allow all the freedom to work without the potential of breaking master and what you have achieved so far.

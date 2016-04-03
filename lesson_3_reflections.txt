@@ -10,7 +10,7 @@ automatically stay up-to-date with your remote repository?
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
+q
     Branches are for taking the code in a different direction, trying out a new feature, making some change you aren't sure will work, etc. You can safely try these edits to the code base without breaking what you already have working.
 
     Clones are for getting started with an existing project. Perhaps you are working on a project started by someone else, or one you began elsewhere and need to continue working on at a different computer.
@@ -20,7 +20,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    So you can interact with the most up to date version of the project.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
